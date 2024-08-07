@@ -7,6 +7,12 @@ The dual network was trained with the robustness certificate, achieving signific
 Click [here](https://drive.google.com/file/d/1qrBYxeFOyc96KV6VeUv9m3JZPyQzYhXA/view?usp=sharing) to view my report. Please include your reason in the message.   
 ## What's in the files 
 `adversarial.ipynb`: Code for training a robust classifier.
+
+
 `extension.ipynb`: Code for attacking the robust classifier with other adversarial samples like rotation and translation.
+
+
 `./data`: MNIST dataset
+
+
 `proj_adversarial_prob`: Problems of the project, done by EECS127 staff.
